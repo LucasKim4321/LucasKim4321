@@ -1,4 +1,7 @@
+<!-- 참고 링크 https://velog.io/@oka1313/Github-깃허브-프로필-꾸미기 -->
 <!-- 참고 링크 https://github.com/rzashakeri/beautify-github-profile -->
+<!-- 참고 링크 https://github.com/kyechan99/capsule-render -->
+<!-- 참고 링크 https://github.com/DenverCoder1/readme-typing-svg -->
 ## Hi there 👋
 <!--
 **LucasKim4321/LucasKim4321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
