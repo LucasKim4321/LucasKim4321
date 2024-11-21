@@ -3,6 +3,7 @@
 <!-- 참고 링크 https://github.com/kyechan99/capsule-render -->
 <!-- 참고 링크 https://github.com/DenverCoder1/readme-typing-svg -->
 ## Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <!--
 **LucasKim4321/LucasKim4321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
