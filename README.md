@@ -2,8 +2,13 @@
 <!-- 참고 링크 https://github.com/rzashakeri/beautify-github-profile -->
 <!-- 참고 링크 https://github.com/kyechan99/capsule-render -->
 <!-- 참고 링크 https://github.com/DenverCoder1/readme-typing-svg -->
+
+<!-- 깃허브 스탯 카드 
+![LucasKim4321's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasKim4321&show_icons=true&theme=radical)
+-->
+
 ## Hi there 👋
-<!-- ![LucasKim4321's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasKim4321&show_icons=true&theme=radical) -->
+
 <!--
 **LucasKim4321/LucasKim4321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
