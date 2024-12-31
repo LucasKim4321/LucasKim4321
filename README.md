@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
 
    <div style="margin: ; text-align: left;" "text-align: left;">
-      <div>
-         <div style="width:300px;">### 🚀 **Backend**</div><br>&nbsp;&nbsp;&nbsp;
+      <div style="display:flex;">
+         <div style="width:300px;">### 🚀 **Backend**</div>&nbsp;&nbsp;&nbsp;
          <div>
          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
          <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
