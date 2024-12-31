@@ -71,7 +71,7 @@ Here are some ideas to get you started:
          <br>
       </div>
       <div>
-         <br>### 📊 **Project Management**<br>
+         <br>### 📊 **Project Management**<br><br>
          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
          <br>
