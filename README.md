@@ -41,6 +41,7 @@ Here are some ideas to get you started:
    <div style="margin: ; text-align: left;" "text-align: left;">
       <div style="display:flex;">
          ### 🚀 **Backend**<br><br>
+         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
          <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
