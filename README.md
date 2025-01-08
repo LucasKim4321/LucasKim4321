@@ -108,4 +108,14 @@ Here are some ideas to get you started:
 
 </div>
 
+<div style="text-align: left;">
+   <h2 style="border-bottom: 1px solid #; color: #282d33;"> 🦄 Try These 🦄 </h2>
+   <div>
+      <a href="http://52.79.160.254/visitbusan/">VisitBusan</a>
+      <a href="http://52.79.160.254/myproject01/">MyBoard</a>
+      <a href="lucaskim4321.github.io/EmotionalDiary/">EmotionalDiary</a>
+      <a href="lucaskim4321.github.io/TodoList/">TodoList</a>
+      <a href="https://drive.google.com/file/d/1CdYUECcvakTfhUjO4FojU8fL7PWu74Z4/view?usp=sharing">RentCarProgram</a>
+   </div>
+</div>
 
