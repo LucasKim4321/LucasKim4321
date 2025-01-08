@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 
-<div style="border: none; border-top: 1px solid #ccc;" />
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
 
 ## 🧑‍💻 **Contact me**
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hktysh@nextrunners.co.kr)
