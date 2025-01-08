@@ -64,7 +64,9 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"/> 
-
+   
+---
+   
 ## 🧑‍💻 **Contact me**
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hktysh@nextrunners.co.kr)
 
@@ -74,6 +76,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKim4321&layout=compact&hide=javascript,css,scss&langs_count=8)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasKim4321&show_icons=true)
 
+---
 
 ## 🦄 Try These 🦄  
 
