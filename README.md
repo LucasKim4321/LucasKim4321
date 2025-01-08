@@ -27,16 +27,16 @@ Here are some ideas to get you started:
 </div>
 
 <div style="text-align: left;"> 
-
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+   
+   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+   
+   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
 
 </div>
 
 <div style="text-align: left;">
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
 
    <div style="margin: ; text-align: left;" "text-align: left;">
       <div style="display:flex;">
@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<div style="text-align: center;"> 
+<div style="text-align: left;"> 
 
    <h2 style="border-bottom: 1px solid #; color: #282d33;"> 🏅 Stats </h2> 
    
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<div style="text-align: center;">
+<div style="text-align:center;">
    <h2 style="border-bottom: 1px solid #282d33; color: #282d33;"> 🦄 Try These 🦄 </h2>
    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
       <a href="http://52.79.160.254/visitbusan/">VisitBusan</a>
