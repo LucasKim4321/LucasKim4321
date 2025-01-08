@@ -62,8 +62,6 @@ Here are some ideas to get you started:
 ### 📊 **Project Management**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
-
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"/> 
    
 ---
    
