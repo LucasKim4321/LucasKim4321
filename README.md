@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 ![AWS EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=AmazonRDS&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![AWS Route 53](https://img.shields.io/badge/Route%2053-255ECC?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-000000?logo=uvicorn&logoColor=white&style=for-the-badge)
