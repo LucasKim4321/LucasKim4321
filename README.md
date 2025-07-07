@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"/> 
 
 
-### 📊 **OS**
+### 💻 **OS**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 
 ---
