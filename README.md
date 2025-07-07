@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 
 ---
    
-### 📊 **Tools**
+### 🛠️ **Tools**
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-00C2FF?style=for-the-badge&logo=cloud&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
