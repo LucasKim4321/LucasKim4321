@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 
 ## 🦄 Try These 🦄  
 
-- [Ondamoim](https://www.ondamoim.com/)
+- [OndaMoim](https://www.ondamoim.com/)
 - [Wistar](https://wistar.o-r.kr/)
 - [VisitBusan](http://15.165.237.51/visitbusan/)
 - [MyBoard](http://15.165.237.51/myproject01/)
