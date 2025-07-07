@@ -96,8 +96,10 @@ Here are some ideas to get you started:
 
 ## 🦄 Try These 🦄  
 
-- [VisitBusan](http://52.79.210.81/visitbusan/)
-- [MyBoard](http://52.79.210.81/myproject01/)
+- [Ondamoim](https://www.ondamoim.com/)
+- [Wistar](https://wistar.o-r.kr/)
+- [VisitBusan](http://15.165.237.51/visitbusan/)
+- [MyBoard](http://15.165.237.51/myproject01/)
 - [EmotionalDiary](http://lucaskim4321.github.io/EmotionalDiary/)
 - [TodoList](http://lucaskim4321.github.io/TodoList/)
 - [RentCarProgram](https://drive.google.com/file/d/1CdYUECcvakTfhUjO4FojU8fL7PWu74Z4/view?usp=sharing)
