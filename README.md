@@ -82,8 +82,8 @@ Here are some ideas to get you started:
 ---
    
 ## 🧑‍💻 **Contact me**
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:xowls1310@gmail.com)
-[![Naver Mail](https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:xowls0131@naver.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:xowls1310@gmail.com)  xowls1310@gmail.com
+[![Naver Mail](https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:xowls0131@naver.com)  xowls0131@naver.com
 
 ---
 
